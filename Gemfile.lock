@@ -1,0 +1,15 @@
+GIT
+  remote: https://github.com/boobooninja/pig-latin
+  revision: ce3a444c6046b0bcb7f162f41764040e7bc53bfb
+  specs:
+    pig_latin (0.0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pig_latin!
